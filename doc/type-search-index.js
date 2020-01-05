@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ie.gmit.sw","l":"Database"},{"p":"ie.gmit.sw","l":"DatabaseBuilder"},{"p":"ie.gmit.sw","l":"Job"},{"p":"ie.gmit.sw","l":"Language"},{"p":"ie.gmit.sw","l":"LanguageDetection"},{"p":"ie.gmit.sw","l":"LanguageEntry"},{"p":"ie.gmit.sw","l":"OutOfPlaceMetric"},{"p":"ie.gmit.sw","l":"RealDatabase"},{"p":"ie.gmit.sw","l":"ServiceHandler"}]
